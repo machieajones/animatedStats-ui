@@ -16,4 +16,4 @@ parcel serve index.html
 ```
 
 ## Sketch file
-(Click here)[https://uidesigndaily.com/posts/sketch-stats-card-analytics-day-1095]
+[Click here](https://uidesigndaily.com/posts/sketch-stats-card-analytics-day-1095)
